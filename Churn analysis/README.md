@@ -84,3 +84,10 @@ This project follows a realistic bank workflow: SQL for extraction & cleaning â†
    * Built 5 visuals: 4 KPI Cards, Geography Bar, Product x Activity Matrix, BalanceTier Column, AgeBand Bar + Tenure/Geography slicers
 
    * Added header title + Key Findings & 3 Actions text box for executive story
+
+   ## Files included in this Project
+
+   * [Raw Csv Data](/Churn%20analysis/Churn_Modelling.csv)
+   * [Sql Cleaned File](/Churn%20analysis/Project%20-%20Churn%20Analysis.sql)
+   * [Excel Validation File](/Churn%20analysis/Project1-Churn-Analysis.xlsx)
+   * [Power BI File](/Churn%20analysis/Project-%20Churn%20Analysis.pbix)
