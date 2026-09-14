@@ -66,6 +66,29 @@ Explore the dashboards below. Each has its own dedicated README with more detail
 
 [➡️ **View Full Project 3 Details (README)**](/Churn%20analysis/README.md)
 
-## About This Portfolio
+## Investment / Wealth Management: Portfolio Performance & Risk Monitoring
+![Portfolio Performance](/Images/Portfolio%20Performance.png)
+
+**Key SQL Skills Utilized:**
+* Create Table
+* SELECT Statements
+* Aggregations
+* CASE Function
+* JOINS
+
+**Key EXCEL Skills Utilized:**
+* Pivot Tables
+* EXCEL Formulas
+
+**Key Power BI Utilized:**
+* Power Query
+* Dax measures
+* Bar Chart
+* Line Chart
+* Column Chart
+* Cards
+* Text Box
+
+# About This Portfolio
 
 Each Project linked above has its own detailed `README.md` file within its respective project folder. These offer deeper insights into the project objectives, data sources, specific Power BI techniques employed, and a closer look at the dashboard build.
