@@ -91,6 +91,27 @@ Explore the dashboards below. Each has its own dedicated README with more detail
 
 [➡️ **View Full Portfolio Performance Project Details (README)**](/Portfolio%20Performance/README.md)
 
+## Lending & Risk Compliance
+![ECL Risk](/Images/Lending%20Risk%20&%20Compliance.png)
+
+**Key SQL Skills Utilized:**
+* Create Table
+* SELECT Statements
+* Aggregations
+
+**Key EXCEL Skills Utilized:**
+* Pivot Tables
+* EXCEL Formulas
+
+**Key Power BI Utilized:**
+* Power Query
+* Dax measures
+* Bar Chart
+* Cards
+* Text Box
+
+[➡️ **View Full Lending & Risk Compliance Project (README)**](/Lending%20Risk%20&%20Compliance/README.md)
+
 # About This Portfolio
 
 Each Project linked above has its own detailed `README.md` file within its respective project folder. These offer deeper insights into the project objectives, data sources, specific Power BI techniques employed, and a closer look at the dashboard build.
